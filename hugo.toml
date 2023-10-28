@@ -1,4 +1,4 @@
 baseURL = 'https://www.stevenchan.me'
 languageCode = 'en-us'
-title = 'Steven Chan'
+title = "👋 Steven Chan's Site"
 theme = 'hugo-bearblog'
