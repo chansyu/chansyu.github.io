@@ -4,4 +4,4 @@ While I'm still updating my website, take a look at my [Cantonese Journal]({{< r
 
 [Resume](/resume.pdf)
 
-If you like to reach out, contact via [email](mailto:stevenychansc@gmail.com).
+If you like to reach out, contact via email **business at stevenchan dot me**.
