@@ -2,4 +2,6 @@
 While I'm still updating my website, take a look at my [Cantonese Journal]({{< ref "cantoJournal" >}}).   
 我而家學廣東話。
 
+[Resume](/resume.pdf)
+
 If you like to reach out, contact via [email](mailto:stevenychansc@gmail.com).
